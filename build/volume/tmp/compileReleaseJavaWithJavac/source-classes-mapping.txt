@@ -1,0 +1,4 @@
+com/example/volume/BuildConfig.java
+ com.example.volume.BuildConfig
+com/example/volume/VolumePlugin.java
+ com.example.volume.VolumePlugin

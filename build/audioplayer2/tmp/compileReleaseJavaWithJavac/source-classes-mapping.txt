@@ -1,0 +1,8 @@
+bz/rxla/audioplayer/BuildConfig.java
+ bz.rxla.audioplayer.BuildConfig
+bz/rxla/audioplayer/AudioplayerPlugin.java
+ bz.rxla.audioplayer.AudioplayerPlugin
+ bz.rxla.audioplayer.AudioplayerPlugin$1
+ bz.rxla.audioplayer.AudioplayerPlugin$2
+ bz.rxla.audioplayer.AudioplayerPlugin$3
+ bz.rxla.audioplayer.AudioplayerPlugin$4

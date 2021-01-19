@@ -1,0 +1,4 @@
+com/example/systemshortcuts/BuildConfig.java
+ com.example.systemshortcuts.BuildConfig
+com/example/systemshortcuts/SystemShortcutsPlugin.java
+ com.example.systemshortcuts.SystemShortcutsPlugin
