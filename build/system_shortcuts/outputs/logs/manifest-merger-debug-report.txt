@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:2:3-40
+		INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml
+		INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:3:5-92
+	android:name
+		ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:3:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:4:5-92
+	android:name
+		ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:4:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml:6:22-71
+uses-sdk
+INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml
+INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml
+		ADDED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml
+		INJECTED from D:\AppDev\flutter\.pub-cache\hosted\pub.dartlang.org\system_shortcuts-1.0.0\android\src\main\AndroidManifest.xml

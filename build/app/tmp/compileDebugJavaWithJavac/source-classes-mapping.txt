@@ -1,0 +1,6 @@
+com/remirubis/music_app/BuildConfig.java
+ com.remirubis.music_app.BuildConfig
+com/remirubis/music_app/MainActivity.java
+ com.remirubis.music_app.MainActivity
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
